@@ -20,6 +20,10 @@ Click the button below to automatically set up this example to run on your own H
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kylef/Curassow-example-helloworld)
 
+or (in case you're feelin' experimental)
+
+[![Deploy to Swifton.me](https://serve.swifton.me/badge.png)](https://serve.swifton.me/oneclick?repository=https://github.com/SwiftOnMe/swifton-serve-example)
+
 ### Options
 
 ```shell
